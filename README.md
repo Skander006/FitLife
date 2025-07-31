@@ -41,7 +41,7 @@ A modern, animated, and fully responsive landing page for a fictional fitness mo
 
 ## 🌐 Live Demo
 
-http://127.0.0.1:5501/index.html
+https://skander006.github.io/FitLife/
 
 ---
 
